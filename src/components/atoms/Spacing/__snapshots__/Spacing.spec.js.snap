@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Spacing Component correctly 1`] = `
+<div
+  className="sc-bwzfXH geylbw"
+  scale={undefined}
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 2`] = `
+<div
+  className="sc-bwzfXH hnwAZR"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 3`] = `
+<div
+  className="sc-bwzfXH hkAtpa"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 4`] = `
+<div
+  className="sc-bwzfXH icLSNG"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 5`] = `
+<div
+  className="sc-bwzfXH cEXdwj"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 6`] = `
+<div
+  className="sc-bwzfXH kmffMt"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;

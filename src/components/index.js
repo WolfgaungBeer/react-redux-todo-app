@@ -5,6 +5,8 @@ export const reducer = combineReducers({
     theme: themeReducer,
 });
 
+export { default as defaultTheme } from './misc/Theme/initialState';
+
 export * from './misc/Theme/actions';
 
 export * from './atoms';

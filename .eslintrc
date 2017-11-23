@@ -14,7 +14,8 @@
     "react/jsx-indent": ["error", 4],
     "react/jsx-indent-props": ["error", 4],
     "react/jsx-filename-extension": ["error", { "extensions": [".js"] }],
-    "object-curly-newline": "off"
+    "object-curly-newline": "off",
+    "function-paren-newline": ["error", "consistent"]
   },
   "settings": {
     "import/resolver": {
