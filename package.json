@@ -6,7 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server --content-base ./bin",
     "build": "webpack -p",
-    "test": "jest --config=jest.config.json"
+    "test": "jest --config=jest.config.json",
+    "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "author": "Wolfgang Beer",
   "license": "MIT",
@@ -20,6 +21,9 @@
     "styled-components": "^2.2.3"
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^3.0.1",
+    "@storybook/addon-knobs": "^3.0.1",
+    "@storybook/react": "^3.0.1",
     "babel-core": "^6.26.0",
     "babel-jest": "^21.2.0",
     "babel-loader": "^7.1.2",
