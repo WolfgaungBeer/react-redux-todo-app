@@ -2,7 +2,7 @@
 
 exports[`renders the Icon Component correctly 1`] = `
 <i
-  className="material-icons  sc-bdVaJa jJkIcA"
+  className="material-icons  sc-bdVaJa kHZSUx"
   color={undefined}
   scale={undefined}
 >
@@ -12,7 +12,7 @@ exports[`renders the Icon Component correctly 1`] = `
 
 exports[`renders the Icon Component correctly 2`] = `
 <i
-  className="material-icons  sc-bdVaJa cqZNUx"
+  className="material-icons  sc-bdVaJa jijRFs"
   color="success"
   scale="l"
 >
@@ -22,7 +22,7 @@ exports[`renders the Icon Component correctly 2`] = `
 
 exports[`renders the Icon Component correctly 3`] = `
 <i
-  className="material-icons  sc-bdVaJa cqZNUx"
+  className="material-icons  sc-bdVaJa jijRFs"
   color="success"
   scale="l"
 >
@@ -32,10 +32,20 @@ exports[`renders the Icon Component correctly 3`] = `
 
 exports[`renders the Icon Component correctly 4`] = `
 <i
-  className="material-icons  sc-bdVaJa hSMiDr"
+  className="material-icons  sc-bdVaJa locMe"
   color="success"
   scale={undefined}
 >
   check_circle
+</i>
+`;
+
+exports[`renders the Icon Component correctly 5`] = `
+<i
+  className="material-icons  sc-bdVaJa bmlpAL"
+  color="success"
+  scale={undefined}
+>
+  settings
 </i>
 `;

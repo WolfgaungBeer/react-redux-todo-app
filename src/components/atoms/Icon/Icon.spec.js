@@ -31,4 +31,11 @@ it('renders the Icon Component correctly', () => {
         </Wrapper>,
     ).toJSON();
     expect(tree4).toMatchSnapshot();
+
+    const tree5 = renderer.create(
+        <Wrapper>
+            <Icon color="success" loading>check_circle</Icon>
+        </Wrapper>,
+    ).toJSON();
+    expect(tree5).toMatchSnapshot();
 });
