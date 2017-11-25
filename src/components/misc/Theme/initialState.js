@@ -1,18 +1,11 @@
 export default {
 
-    screen: {
-        s: '450px',
-        m: '750px',
-        l: '1200px',
-        xl: '1600px',
-    },
-
     fonts: {
         heading: '\'Vollkorn SC\', serif',
-        paragraph: '"Ubuntu", sans-serif',
-        link: '"Ubuntu", sans-serif',
-        label: '"Ubuntu", sans-serif',
-        span: '"Ubuntu", sans-serif',
+        paragraph: '\'Ubuntu\', sans-serif',
+        link: '\'Ubuntu\', sans-serif',
+        label: '\'Ubuntu\', sans-serif',
+        span: '\'Ubuntu\', sans-serif',
     },
 
     color: {
@@ -20,7 +13,6 @@ export default {
         white: '#F7F7F7',
         lightGray: '#bababa',
         darkGray: '#4f4f4f',
-        info: '#48C5FC',
         success: '#37B661',
         warning: '#DD9913',
         error: '#E25650',
@@ -38,12 +30,6 @@ export default {
         xl: '1.6rem',
         xxl: '2rem',
         xxxl: '3rem',
-    },
-
-    shadow: {
-        s: '1px',
-        m: '2px',
-        l: '4px',
     },
 
 };

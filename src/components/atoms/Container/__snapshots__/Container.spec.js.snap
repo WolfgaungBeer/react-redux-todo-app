@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Container Component correctly 1`] = `
+<div
+  className="sc-bdVaJa cynRIR"
+  height={undefined}
+  width={undefined}
+>
+  Container
+</div>
+`;
+
+exports[`renders the Container Component correctly 2`] = `
+<div
+  className="sc-bdVaJa cRtKJV"
+  height="100%"
+  width="100%"
+>
+  Container
+</div>
+`;
+
+exports[`renders the Container Component correctly 3`] = `
+<div
+  className="sc-bdVaJa ghkxGi"
+  height="100%"
+  width="100%"
+>
+  Container
+</div>
+`;
