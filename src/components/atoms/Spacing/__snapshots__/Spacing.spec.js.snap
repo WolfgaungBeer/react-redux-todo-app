@@ -2,7 +2,7 @@
 
 exports[`renders the Spacing Component correctly 1`] = `
 <div
-  className="sc-bwzfXH geylbw"
+  className="sc-bwzfXH gzFMrd"
   scale={undefined}
 >
   Spacing
@@ -11,8 +11,8 @@ exports[`renders the Spacing Component correctly 1`] = `
 
 exports[`renders the Spacing Component correctly 2`] = `
 <div
-  className="sc-bwzfXH hnwAZR"
-  scale="xxl"
+  className="sc-bwzfXH kVQPAa"
+  scale="xl"
 >
   Spacing
 </div>
@@ -20,8 +20,8 @@ exports[`renders the Spacing Component correctly 2`] = `
 
 exports[`renders the Spacing Component correctly 3`] = `
 <div
-  className="sc-bwzfXH hkAtpa"
-  scale="xxl"
+  className="sc-bwzfXH foOAJO"
+  scale={undefined}
 >
   Spacing
 </div>
@@ -29,7 +29,7 @@ exports[`renders the Spacing Component correctly 3`] = `
 
 exports[`renders the Spacing Component correctly 4`] = `
 <div
-  className="sc-bwzfXH icLSNG"
+  className="sc-bwzfXH jOtzCy"
   scale="xxl"
 >
   Spacing
@@ -38,7 +38,7 @@ exports[`renders the Spacing Component correctly 4`] = `
 
 exports[`renders the Spacing Component correctly 5`] = `
 <div
-  className="sc-bwzfXH cEXdwj"
+  className="sc-bwzfXH eqMoro"
   scale="xxl"
 >
   Spacing
@@ -47,7 +47,43 @@ exports[`renders the Spacing Component correctly 5`] = `
 
 exports[`renders the Spacing Component correctly 6`] = `
 <div
-  className="sc-bwzfXH kmffMt"
+  className="sc-bwzfXH hzRInK"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 7`] = `
+<div
+  className="sc-bwzfXH hthCeq"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 8`] = `
+<div
+  className="sc-bwzfXH gDsRzm"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 9`] = `
+<div
+  className="sc-bwzfXH ctxsvv"
+  scale="xxl"
+>
+  Spacing
+</div>
+`;
+
+exports[`renders the Spacing Component correctly 10`] = `
+<div
+  className="sc-bwzfXH iniLjb"
   scale="xxl"
 >
   Spacing

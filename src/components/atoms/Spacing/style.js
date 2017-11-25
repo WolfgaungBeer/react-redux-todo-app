@@ -1,11 +1,13 @@
 export const getStyle = () => (props) => {
-    const { scale, left, bottom, right } = props;
-    let pos = 'top';
-    if (left) pos = 'left';
-    if (bottom) pos = 'bottom';
-    if (right) pos = 'right';
+    const { scale, top, left, bottom, right, styles } = props;
+    const size = `${props.theme.scale[scale] || props.theme.scale.m}`;
+    const pos = (!top && !left && !right && !bottom) ? 'top' : undefined;
+    if (pos) return `padding-${pos}: ${size}`;
     return `
-        padding-${pos}: ${props.theme.scale[scale] || props.theme.scale.m};
-        ${props.styles && props.styles(props)};
+        ${top && 'padding-top: '} ${size};
+        ${left && 'padding-left: '} ${size};
+        ${right && 'padding-right: '} ${size};
+        ${bottom && 'padding-bottom: '} ${size};
+        ${styles && styles(props)};
     `;
 };

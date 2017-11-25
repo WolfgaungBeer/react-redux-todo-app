@@ -2,7 +2,7 @@
 
 exports[`renders the Text Component correctly 1`] = `
 <h1
-  className="sc-htpNat fvsWxT"
+  className="sc-htpNat labtnX"
 >
   Das ist ein Text
 </h1>
@@ -10,7 +10,7 @@ exports[`renders the Text Component correctly 1`] = `
 
 exports[`renders the Text Component correctly 2`] = `
 <h2
-  className="sc-bxivhb kGhdvP"
+  className="sc-bxivhb ecPYuQ"
 >
   Das ist ein Text
 </h2>
@@ -18,7 +18,7 @@ exports[`renders the Text Component correctly 2`] = `
 
 exports[`renders the Text Component correctly 3`] = `
 <h3
-  className="sc-ifAKCX jyCNEj"
+  className="sc-ifAKCX eXJAyv"
 >
   Das ist ein Text
 </h3>
@@ -26,7 +26,7 @@ exports[`renders the Text Component correctly 3`] = `
 
 exports[`renders the Text Component correctly 4`] = `
 <h4
-  className="sc-EHOje hSMNoi"
+  className="sc-EHOje eMKZtW"
   color="error"
   scale="xl"
 >
@@ -36,7 +36,7 @@ exports[`renders the Text Component correctly 4`] = `
 
 exports[`renders the Text Component correctly 5`] = `
 <h5
-  className="sc-bZQynM OJxgE"
+  className="sc-bZQynM eXgDVi"
 >
   Das ist ein Text
 </h5>
@@ -44,7 +44,7 @@ exports[`renders the Text Component correctly 5`] = `
 
 exports[`renders the Text Component correctly 6`] = `
 <h6
-  className="sc-gzVnrw cSCheu"
+  className="sc-gzVnrw hSZcNm"
 >
   Das ist ein Text
 </h6>

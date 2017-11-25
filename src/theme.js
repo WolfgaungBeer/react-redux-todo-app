@@ -8,7 +8,7 @@ export default {
     },
 
     fonts: {
-        heading: '"Playfair Display", serif',
+        heading: '\'Vollkorn SC\', serif',
         paragraph: '"Ubuntu", sans-serif',
         link: '"Ubuntu", sans-serif',
         label: '"Ubuntu", sans-serif',

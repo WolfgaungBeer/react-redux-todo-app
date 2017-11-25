@@ -8,7 +8,7 @@ export default {
     },
 
     fonts: {
-        heading: '"Droid Serif", serif',
+        heading: '\'Vollkorn SC\', serif',
         paragraph: '"Ubuntu", sans-serif',
         link: '"Ubuntu", sans-serif',
         label: '"Ubuntu", sans-serif',

@@ -8,6 +8,7 @@ import '../src/global.css';
 
 const loadStories = () => {
     require('../src/components/atoms/Icon/Icon.story.js');
+    require('../src/components/atoms/Spacing/Spacing.story.js');
     require('../src/components/atoms/Text/Text.story.js');
 };
 
